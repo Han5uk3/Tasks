@@ -66,6 +66,7 @@ flutter:
     - assets/images/WDR.jpeg
     - assets/images/2560×1440.jpg
     - assets/images/neha-.png
+    - assets/images/images.png
 
   fonts:
     - family: MyFlutterApp
