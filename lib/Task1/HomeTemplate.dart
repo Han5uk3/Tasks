@@ -35,7 +35,8 @@ class _meditationState extends State<meditation> {
                           scale: 0.89,
                           alignment: Alignment(-0.5, -1.19),
                           filterQuality: FilterQuality.high,
-                          image: AssetImage("assets/images/neha-.png")))),
+                          image: AssetImage("assets/images/neha-.png")
+                      ))),
               Container(
                   height: MediaQuery.of(context).size.height,
                   width: MediaQuery.of(context).size.width,
@@ -83,7 +84,8 @@ class _meditationState extends State<meditation> {
                             hintText: "Search",
                             shape: MaterialStatePropertyAll(
                                 RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(10))),
+                                    borderRadius: BorderRadius.circular(10)
+                                )),
                           ),
                         ),
                       ),
